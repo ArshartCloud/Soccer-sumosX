@@ -1,0 +1,24 @@
+
+// Author: Arshart
+// E-mail: askheart1@gmail.com
+
+
+使用： scenes-main-run.
+
+操作：
+基本与原作一致,四个角落在游戏开始前可以添加/删除玩家，游戏开始后按住控制角色移动。
+旁边的扳手可以添加AI。
+按下中间start开始游戏。
+右中为暂停键。
+左中为重新开始。
+
+说明：
+游戏开始后有3s倒计时。
+进球后会开始新的一轮。
+得分暂无上限（没找到合适的胜利动画），请随意享受。
+
+
+画面较为粗糙，没找到合适的素材。
+干脆简约风格，突出重点吧。
+
+github:https://github.com/ArshartCloud/Shooting-Game.
